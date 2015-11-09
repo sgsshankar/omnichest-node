@@ -1,0 +1,35 @@
+{
+  "name": "omnichest",
+  "version": "1.0.0",
+  "description": "nodejs API for omnichest",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "omnichest",
+    "omni protocol",
+    "omnichest.info",
+    "bitcoins",
+    "bitcoin"
+  ],
+  "author": {
+    "name": "sgsshankar",
+    "email": "sgsshankarnarayanan@gmail.com",
+    "url": "http://github.com/sgsshankar"
+  },
+  "main": "omnichest.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgsshankar/omnichest-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgsshankar/omnichest-node/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "promise": "^7.0.4",
+    "unirest": "^0.4.2"
+  },
+  "license": "Apache License"
+}
