@@ -43,7 +43,7 @@ module.exports = {
 
 	getTotalTransactions: function() {
 		var url = 'stat=txcount24hr'
-		var result = sendRequest(totalTransactions, 'GET', {});
+		var result = sendRequest(url, 'GET', {});
 		return result;
 	},
 
