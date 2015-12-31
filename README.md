@@ -40,3 +40,7 @@ Feel free to fork from [omnichest-node](https://github.com/sgsshankar/omnichest-
 ### Issues
 
 https://github.com/sgsshankar/omnichest-node/issues
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/omnichest-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
